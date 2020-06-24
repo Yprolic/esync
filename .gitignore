@@ -1,0 +1,5 @@
+*.toml
+!/default.toml
+backup/*.json
+.idea/**
+esync
